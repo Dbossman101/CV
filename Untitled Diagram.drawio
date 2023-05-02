@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T13:20:27.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="8cJDBNWQOPNWMiw9cnqc" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T13:22:32.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="-0o_HS7wRGKqDTt8x2_8" version="21.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -385,6 +385,27 @@
         </mxCell>
         <mxCell id="Jld1LGPgW5Q3hscS3iwY-109" value="13.8 Feedback from database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1208" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-111" value="App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-112" value="ESB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-113" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="1280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-114" value="SMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-115" value="KYC service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="1280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-116" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="1280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-117" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="1300" width="20" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
