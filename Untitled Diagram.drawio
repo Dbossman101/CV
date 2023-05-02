@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T12:59:34.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="XnXWoVhFwPDz-SuaV89K" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T13:12:30.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.64" etag="Y9iLLRFmyJOiYu-4WbgS" version="21.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,7 +290,46 @@
         <mxCell id="Jld1LGPgW5Q3hscS3iwY-84" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="120" y="920" as="sourcePoint" />
-            <mxPoint x="280" y="920" as="targetPoint" />
+            <mxPoint x="290" y="920" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-85" value="12.2 Prompt for KYC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="890" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-86" value="13 Upload KYC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="920" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="950" as="sourcePoint" />
+            <mxPoint x="290" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-88" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="290" y="990" as="sourcePoint" />
+            <mxPoint x="480" y="990" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-89" value="13.1 Request to validate KYC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="958" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-91" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="480" y="1030" as="sourcePoint" />
+            <mxPoint x="880" y="1030" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-93" value="13.2 Validate KYC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="998" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jld1LGPgW5Q3hscS3iwY-94" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="880" y="1070" as="sourcePoint" />
+            <mxPoint x="480" y="1070" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
